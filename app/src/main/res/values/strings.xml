@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart School Bus</string>
+    <string-array name="User">
+        <item>Admin</item>
+        <item>Bus Driver</item>
+        <item>Parents</item>
+    </string-array>
+</resources>
